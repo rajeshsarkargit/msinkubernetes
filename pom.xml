@@ -22,7 +22,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
+<<<<<<< HEAD
 			<version>2.2.6.RELEASE</version>
+=======
+			<!--<version>2.2.6.RELEASE</version>-->
+>>>>>>> ba3de29be89e2761b6af2edb516ac5a7c1a8b38a
 		</dependency>
 		<!--<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -31,7 +35,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+<<<<<<< HEAD
 			<version>2.2.6.RELEASE</version>
+=======
+			<!--<version>2.2.6.RELEASE</version>-->
+>>>>>>> ba3de29be89e2761b6af2edb516ac5a7c1a8b38a
 		</dependency>
 
 		<dependency>
@@ -39,7 +47,11 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+<<<<<<< HEAD
 			<version>2.2.6.RELEASE</version>
+=======
+			<!--<version>2.2.6.RELEASE</version>-->
+>>>>>>> ba3de29be89e2761b6af2edb516ac5a7c1a8b38a
 		</dependency>
 		<!--<dependency>
 			<groupId>org.projectlombok</groupId>
@@ -56,7 +68,11 @@
 					<artifactId>junit-vintage-engine</artifactId>
 				</exclusion>
 			</exclusions>
+<<<<<<< HEAD
 			<version>2.2.6.RELEASE</version>
+=======
+			<!--<version>2.2.6.RELEASE</version>-->
+>>>>>>> ba3de29be89e2761b6af2edb516ac5a7c1a8b38a
 		</dependency>
 	</dependencies>
 
